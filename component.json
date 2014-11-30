@@ -1,0 +1,16 @@
+{
+  "name": "observ",
+  "repo": "ericgj/observ",
+  "description": "An observable value representation",
+  "version": "0.2.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "watch.js",
+    "computed.js"
+  ]
+}
